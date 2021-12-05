@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jakub Wiraszka
+- 👀 I’m interested in games and apps developement
+- 🌱 I’m currently learning Java
+- 📫 You can reach my by my e-mail address: jakub.wiraszka@wp.pl
