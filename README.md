@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jakub Wiraszka
 - 👀 I’m interested in games and apps developement
-- I have already learned some C++, Python and Java
+- I have already learned Java, JavaScript, Python, C++
 - 📫 You can reach me by e-mail address: jakub.wiraszka@wp.pl
