@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jakub Wiraszka
-- 👀 I’m interested in games and apps developement
-- I have already learned Java, Python, C++
+- 👀 I’m interested in FullStack developement
+- I have already learned React, NextJS, Java, Python, C++
 - 📫 You can reach me by e-mail address: jakub.wiraszka@wp.pl
